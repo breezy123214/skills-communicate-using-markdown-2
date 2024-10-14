@@ -10,3 +10,9 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+
+- [ ] Turn on my Github Pages
+- [ ] Learn Markdown
+- [ ] Outline my Portfolio
+- [ ] Introduce myself to the World
